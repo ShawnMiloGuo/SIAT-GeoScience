@@ -21,9 +21,9 @@ landsat 有Collection 1 和Collection 2 两个数据集， Collection 2 比较�
 
 * Real Time： 数据在卫星上获取后，进行快速的处理，用于对突发事件的实时监测
 * Tier 1 数据是RMSE小于12 meters 的数据，为了构建准确的时间序列数据
-* ![image.png](/assets/image-20220303175951-jezavw8.png){:.rounded}
+* ![image.png](/SIAT-GeoScience/assets/image-20220303175951-jezavw8.png){:.rounded}
   Tier 2 数据是RMSE 大于12 meters的数据，可以说是有问题的数据，这些数据定位差主要是因为云的问题
-  ![image.png](/assets/image-20220303175914-ev5h3qo.png){:.rounded}
+  ![image.png](/SIAT-GeoScience/assets/image-20220303175914-ev5h3qo.png){:.rounded}
 
 ### USGS Landsat 8 Level 2, Collection 2, Tier 2
 
@@ -68,7 +68,7 @@ Map.addLayer(dataset.max(), visualization, 'True Color (432)');
 
 发现该在深圳区域，同一path row 下数据时间序列不完整。从2014年到现在的数据列表如下：
 
-![image.png](/assets/image-20220303154333-jrmfxs3.png#pic_center){:.rounded}
+![image.png](/SIAT-GeoScience/assets/image-20220303154333-jrmfxs3.png#pic_center){:.rounded}
 
 通过筛选Cloud Cover小于 50% 的只有两景
 
@@ -78,7 +78,7 @@ var dataset = ee.ImageCollection('LANDSAT/LC08/C02/T2_L2')
 
 ```
 
-![image.png](/assets/image-20220303162321-5uxiehe.png#pic_center)
+![image.png](/SIAT-GeoScience/assets/image-20220303162321-5uxiehe.png#pic_center)
 
 `LANDSAT/LC08/C02/T2_L2/LC08_122044_20160310`
 
@@ -86,9 +86,9 @@ var dataset = ee.ImageCollection('LANDSAT/LC08/C02/T2_L2')
 
 实际上全是云
 
-![image.png](/assets/image-20220303165544-r47xwna.png){:.rounded}
+![image.png](/SIAT-GeoScience/assets/image-20220303165544-r47xwna.png){:.rounded}
 
-![image.png](/assets/image-20220303165827-40zov6m.png){:.rounded}
+![image.png](/SIAT-GeoScience/assets/image-20220303165827-40zov6m.png){:.rounded}
 
 小结：LANDSAT/LC08/C02/T2_L2这个数据集不能用
 
@@ -143,7 +143,7 @@ Map.addLayer(dataset.median(), visParams);
 
 该数据集中云量小于1的有13景
 
-![image.png](/assets/image-20220304084539-t4vx9ln.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304084539-t4vx9ln.png)
 
 ### USGS Landsat 8 Collection 1 Tier 1 and Real-Time data TOA Reflectance
 
@@ -165,7 +165,7 @@ Map.addLayer(trueColor432.mean(), trueColor432Vis, 'True Color (432)');
 
 该数据集中云量小于1的有13景
 
-![image.png](/assets/image-20220303172928-tycx7jn.png)
+![image.png](/SIAT-GeoScience/assets/image-20220303172928-tycx7jn.png)
 
 ### USGS Landsat 8 Collection 1 Tier 1 TOA Reflectance
 
@@ -188,7 +188,7 @@ Map.addLayer(trueColor432, trueColor432Vis, 'True Color (432)');
 
 ```
 
-![image.png](/assets/image-20220303173848-tg8lc59.png)
+![image.png](/SIAT-GeoScience/assets/image-20220303173848-tg8lc59.png)
 
 ### USGS Landsat 8 Collection 2 Tier 1 TOA Reflectance
 
@@ -209,7 +209,7 @@ var trueColor432Vis = {
 Map.addLayer(trueColor432.mean(), trueColor432Vis, 'True Color (432)');
 ```
 
-![image.png](/assets/image-20220304083845-bv379lf.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304083845-bv379lf.png)
 
 ### USGS Landsat 8 Level 2, Collection 2, Tier 1
 
@@ -217,7 +217,7 @@ Map.addLayer(trueColor432.mean(), trueColor432Vis, 'True Color (432)');
 
 `ee.ImageCollection("LANDSAT/LC08/C02/T1_L2")`
 
-![image.png](/assets/image-20220304085912-dwvlfhm.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304085912-dwvlfhm.png)
 
 ```javascript
 
@@ -288,11 +288,11 @@ Map.addLayer(Layer2021, visParams, 'True Color (432)-2021');
 
 由于LST 数据分辨率较低，因此需要区域更大一些
 
-![image.png](//assets/image-20220304100400-fp4uuno.png)
+![image.png](//SIAT-GeoScience/assets/image-20220304100400-fp4uuno.png)
 
-![image.png](/assets/image-20220304100432-74yo59i.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304100432-74yo59i.png)
 
-![image.png](/assets/image-20220304100820-1ysuiwf.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304100820-1ysuiwf.png)
 
 最终选取USGS Landsat 8 Level 2, Collection 2, Tier 1
 
@@ -329,7 +329,7 @@ Map.addLayer(dataset, visualization, 'True Color (321)');
 
 ```
 
-![image.png](/assets/image-20220304104328-658aelh.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304104328-658aelh.png)
 
 On May 31st, 2003. SLC Fail, 所以2003之前的数据可以用
 
@@ -374,7 +374,7 @@ Map.addLayer(
 
 发现凡是TM8过境的那一天，深圳都会刚好在MODIS的条带中，无数据
 
-![image.png](/assets/image-20220304102957-yogc9ga.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304102957-yogc9ga.png)
 
 如何去解决这个问题：
 
