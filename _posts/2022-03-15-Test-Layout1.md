@@ -288,7 +288,7 @@ Map.addLayer(Layer2021, visParams, 'True Color (432)-2021');
 
 由于LST 数据分辨率较低，因此需要区域更大一些
 
-![image.png](//SIAT-GeoScience/assets/image-20220304100400-fp4uuno.png)
+![image.png](/SIAT-GeoScience/assets/image-20220304100400-fp4uuno.png)
 
 ![image.png](/SIAT-GeoScience/assets/image-20220304100432-74yo59i.png)
 

@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /SIAT-GeoScience/assets/image-20220304100432-74yo59i.png
+    src: /assets/image-20220304100432-74yo59i.png
 ---
 
 寻找实验合适的MODIS和Landsat数据集
