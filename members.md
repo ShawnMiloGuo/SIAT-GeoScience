@@ -2,16 +2,16 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Members
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS  小组核心成员
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
+  zh-Hant : &ZH_HANT  小组核心成员
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
@@ -36,7 +36,7 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 ## Features
 
-- Responsivejjjj
+- Responsivejjjjwewe
 - Semantic HTML
 - Skins
 - Highlight Theme
