@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : /SIAT-GeoScience/ # does not include hostname
-title   : SIAT Geo-Science Group 中国科学院深圳先进技术研究院-地理科学研究小组
+title   : 中科院深圳先进技术研究院-地理科学研究组（SIAT Geo-Science Group） 
 description: > # this means to ignore newlines until "Language & timezone"
   This is the website for update the group acadamic news for SIAT Geo-Science Group.
 
