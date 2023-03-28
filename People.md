@@ -61,7 +61,7 @@ Prof. Guo is recruiting for Student/Visiting student now. If you are from remote
 
 ## Friday Think Tank Talk (TTT)
 
-We hold the TTT group meeting as our routine to share ideas and to follow up on each member's research updates. We hate the traditional group meeting which is more like a working meeting rather than the brainstorming meeting, so each topic every week is chosen by the member themself which covers optical remote sensing, SAR, InSAR, Deep learning, statistics, optimization, and so on. We enjoyed our group culture and welcome any new member join with us.
+We hold the TTT group meeting as our routine to share ideas and to follow up on each member's research updates. We hate the traditional group meeting which is more like a working meeting rather than the brainstorming meeting, so each topic every week is chosen by the member themself which covers optical remote sensing, SAR, InSAR, Deep learning, statistics, optimization, and so on. We enjoyed our group culture and welcome any new members join with us.
 
 ## International conference
 
