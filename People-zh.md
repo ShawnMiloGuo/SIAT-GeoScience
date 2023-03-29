@@ -15,6 +15,10 @@ article_header:
 
 
 
+**[English](https://github.com/shawnmiloguo.github.io/SIAT-GeoScience/People.md)**
+
+
+
 # 学习机会
 
 郭教授现在正在招募学生/客座学生。如果你拥有具有地理信息、测绘科学、卫星遥感、人工智能、机器学习、计算机科学等相关专业背景，欢迎加入我的团队！  
@@ -29,8 +33,7 @@ article_header:
 
 * 性格开朗，善于动手，英文读写能力较强。
 
-
-**If you are interested如果你很感兴趣，欢迎通过邮箱联系我：sx.guo@siat.ac.cn** 
+**如果你很感兴趣，欢迎通过邮箱联系我：sx.guo@siat.ac.cn** 
 
 
 
