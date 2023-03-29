@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Group Members-zh
+title: 团队成员
 mode: immersive
 header:
   theme: dark
