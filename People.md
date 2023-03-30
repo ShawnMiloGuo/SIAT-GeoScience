@@ -13,7 +13,7 @@ article_header:
     src: /assets/image-20220317152832-0wl42ox.png
 ---
 
-**[中文](https://shawnmiloguo.github.io/SIAT-GeoScience/People-zh.md)**
+**[中文](https://shawnmiloguo.github.io/SIAT-GeoScience/People-zh.html)**
 
 # Job Available
 

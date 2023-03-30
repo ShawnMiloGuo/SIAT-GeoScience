@@ -15,7 +15,7 @@ article_header:
 
 
 
-**[English](https://shawnmiloguo.github.io/SIAT-GeoScience/People.md)**
+**[English](https://shawnmiloguo.github.io/SIAT-GeoScience/People.html)**
 
 
 
