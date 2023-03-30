@@ -50,26 +50,23 @@ article_header:
 | 副研究员                                                     | 副研究员                                                     | 工程师                                                       | 博士后                                                       | 工程师                                                       |
 | ![image.png](/SIAT-GeoScience/assets/image-20220316221041-v5ld968.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316221107-laky3gi.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222052-4c8b1ts.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317150220-srsv5i2.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222004-rpe21ge.png){:.rounded} |
 | 北京师范大学 <br /> [Webpage](https://jiangjincheng.github.io/) | 中国科学院大学                                               | 香港理工大学                                                 | 辽宁工程技术大学                                             | 内蒙古师范大学<br />                                         |
-| **姜小砾**                                                   | **Xiaorou Zheng**                                            | **Zhu zhu**                                                  | **Yuankai Ge**                                               | **Ming Li**                                                  |
-| 工程师                                                       | Ph.D student                                                 | Visiting M.S student                                         | Visiting M.S Student                                         | Visiting M.S Student                                         |
-| ![image.png](/SIAT-GeoScience/assets/image-20220316222052-4c8b1ts.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317111717-wn0tq67.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317151038-l4by6lx.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317151109-qrvadys.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317154052-6f5veat.png){:.rounded} |
-| 香港理工大学<br />                                           | University of Chinese <br />Academy of Sciences              | Southwest University                                         | Henan <br />Polytechnic University<br />                     | Henan <br />Polytechnic University                           |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
 
 ## 团队伙伴
 
-| 王久娟                                                       | 2018-2021                                 | 邓                                                           | 2017-2020                                |
+| 王久娟                                                       | 2018-2021                                 | Xinping Deng                                                 | 2017-2020                                |
 | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317112827-4sj8x7l.png){:.rounded} | 一带一路环境技术交流与转移中心-深圳<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317114711-xcjlj1i.png){:.rounded} | 深圳麦科田生物医疗技术股份有限公司<br /> |
 | **贾建鑫**                                                   | **2019-2021**                             | **徐文娜**                                                   | **2017-2020**                            |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317112706-8quhkf2.png){:.rounded} | 芬兰地球空间研究所                        | ![image.png](/SIAT-GeoScience/assets/image-20220317114251-yxu8qbd.png){:.rounded} | 科大讯飞                                 |
 | **Yingfei Xiong**                                            | **2018-2021**                             | **林创**                                                     | **2018-2021**                            |
-| ![image.png](/SIAT-GeoScience/assets/image-20220317114340-i03d42w.png){:.rounded} | Current position: Huawei Co. Ltd. (华为） | ![image.png](/SIAT-GeoScience/assets/image-20220317154139-hlc62gv.png){:.rounded} | 华为                                     |
+| ![image.png](/SIAT-GeoScience/assets/image-20220317114340-i03d42w.png){:.rounded} | 华为                                      | ![image.png](/SIAT-GeoScience/assets/image-20220317154139-hlc62gv.png){:.rounded} | 华为                                     |
 | **申原**                                                     | **2017-2020**                             | **Binglong Wu**                                              | **2020-2021**                            |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317165119-ti2wtnt.png){:.rounded} | 道通智能                                  | ![image.png](/SIAT-GeoScience/assets/image-20220317151943-62begz8.png){:.rounded} | 攻读Master  Degree                       |
 
 # 团队学习&生活
 
-## Friday Think Tank Talk (TTT)
+## 周五TTT研讨会(Think Tank Talk)
 
 我们每周都会举行TTT小组会议，分享每位成员的想法，并跟进每位成员的最新的研究进展。我们讨厌传统的小组会议，它更像是无聊的工作会议而不是更富创造力的团队头脑风暴。所以每周的每个主题都由成员自己选择，涵盖光学遥感、SAR、InSAR、深度学习、统计、优化等。我们享受我们的团队文化，并欢迎任何新成员的加入！
 
