@@ -13,7 +13,7 @@ article_header:
     src: /assets/image-20220317152832-0wl42ox.png
 ---
 
-**[中文](https://shawnmiloguo.github.io/SIAT-GeoScience/People-zh.html)**
+**[中文](https://github.com/shawnmiloguo.github.io/SIAT-GeoScience/People-zh.md)**
 
 # Job Available
 
@@ -36,14 +36,14 @@ Prof. Guo is recruiting for Student/Visiting student now. If you are from remote
 | Associate Professor                                          | Assistant Professor                                          | Associate Professor                                          | Assistant Professor                                          | Assistant Professor                                          |
 | ![image.png](/SIAT-GeoScience/assets/image-20220327202226-z7n4aae.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316215231-ij978hy.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/Screenshot 2022-03-30 111249.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316215256-0g3u0r7.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316215405-y8w5dfy.png){:.rounded} |
 | Wuhan University<br />University of Wisconsin<br />-Madison<br />[Webpage](https://shawnmiloguo.github.io/)<br /> | University College London                                    | University of Chinese <br />Academy of Sciences<br />        | Liaoning <br />Technical University<br />                    | Texas A&M University                                         |
-| **Jinchen Jiang**                                            | **Hongzhong Li**                                             | **Jing Wang**                                                | **Yelong Zhao**                                              | **Yu Han**                                                   |
-| Associate Professor                                          | Associate Professor                                          | Assistant Professor                                          | Postdoc                                                      | Engineer                                                     |
-| ![image.png](/SIAT-GeoScience/assets/image-20220316221041-v5ld968.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316221107-laky3gi.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316215509-qgx6jhr.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317150220-srsv5i2.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222004-rpe21ge.png){:.rounded} |
-| Beijing Normal University <br /> [Webpage](https://jiangjincheng.github.io/) | University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              | Liaoning <br />Technical University                          | Inner Mongolia<br /> Normal University<br />                 |
-| **Xiaoli Jiang**                                             | **Xiaorou Zheng**                                            | **Zhu zhu**                                                  | **Yuankai Ge**                                               | **Ming Li**                                                  |
-| Engineer                                                     | Ph.D student                                                 | Visiting M.S student                                         | Visiting M.S Student                                         | Visiting M.S Student                                         |
-| ![image.png](/SIAT-GeoScience/assets/image-20220316222052-4c8b1ts.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317111717-wn0tq67.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317151038-l4by6lx.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317151109-qrvadys.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317154052-6f5veat.png){:.rounded} |
-| The Hong Kong <br />Polytechnic University<br />             | University of Chinese <br />Academy of Sciences              | Southwest University                                         | Henan <br />Polytechnic University<br />                     | Henan <br />Polytechnic University                           |
+| **Jinchen Jiang**                                            | **Hongzhong Li**                                             | **Xiaoli Jiang**                                             | **Yelong Zhao**                                              | **Yu Han**                                                   |
+| Associate Professor                                          | Associate Professor                                          | Engineer                                                     | Postdoc                                                      | Engineer                                                     |
+| ![image.png](/SIAT-GeoScience/assets/image-20220316221041-v5ld968.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316221107-laky3gi.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222052-4c8b1ts.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317150220-srsv5i2.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222004-rpe21ge.png){:.rounded} |
+| Beijing Normal University <br /> [Webpage](https://jiangjincheng.github.io/) | University of Chinese <br />Academy of Sciences              | The Hong Kong <br />Polytechnic University                   | Liaoning <br />Technical University                          | Inner Mongolia<br /> Normal University<br />                 |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
 
 ## Alumni
 
@@ -57,6 +57,18 @@ Prof. Guo is recruiting for Student/Visiting student now. If you are from remote
 | **Yuan Shen**                                                                    | **2017-2020**                                                                                                                            | **Binglong Wu**                                | **2020-2021**                                                                      |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317165119-ti2wtnt.png){:.rounded}                                                                                       | Current position: Autel Robotics Co. Ltd. (道通智能）                                                                                          | ![image.png](/SIAT-GeoScience/assets/image-20220317151943-62begz8.png){:.rounded} | Working on his M.S degree                                                                |
 
+| **Yingfei Xiong**                                            | **2018-2021**                                         | **Chuang lin**                                               | **2018-2021**                             |
+| ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------- |
+| ![image.png](/SIAT-GeoScience/assets/image-20220317114340-i03d42w.png){:.rounded} | Current position: Huawei Co. Ltd. (华为）             | ![image.png](/SIAT-GeoScience/assets/image-20220317154139-hlc62gv.png){:.rounded} | Current position: Huawei Co. Ltd. (华为） |
+| **Yuan Shen**                                                | **2017-2020**                                         | **Binglong Wu**                                              | **2020-2021**                             |
+| ![image.png](/SIAT-GeoScience/assets/image-20220317165119-ti2wtnt.png){:.rounded} | Current position: Autel Robotics Co. Ltd. (道通智能） | ![image.png](/SIAT-GeoScience/assets/image-20220317151943-62begz8.png){:.rounded} | Working on his M.S degree                 |
+
+| **Jing Wang**                                                | **Xiaorou Zheng**                                            | **Zhu zhu**                                                  | **Yuankai Ge**                                               | **Ming Li**                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Assistant Professor                                          | Ph.D student                                                 | Visiting M.S student                                         | Visiting M.S Student                                         | Visiting M.S Student                                         |
+| ![image.png](/SIAT-GeoScience/assets/image-20220316215509-qgx6jhr.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317111717-wn0tq67.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317151038-l4by6lx.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317151109-qrvadys.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317154052-6f5veat.png){:.rounded} |
+| University of Chinese <br />Academy of Sciences<br />        | University of Chinese <br />Academy of Sciences              | Southwest University                                         | Henan <br />Polytechnic University<br />                     | Henan <br />Polytechnic University                           |
+
 # Group meeting & life
 
 ## Friday Think Tank Talk (TTT)
@@ -67,4 +79,4 @@ We hold the TTT group meeting as our routine to share ideas and to follow up on 
 
 ![image.png](/SIAT-GeoScience/assets/image-20220317150603-adi3j0r.png){:.rounded}
 
-![image.png](/SIAT-GeoScience/assets/image-20220317152832-0wl42ox.png){:.rounded}
+![image.png](/SIAT-GeoScience/assets/image-20220317152832-0wl42ox.png){:.rounded}	

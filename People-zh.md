@@ -54,14 +54,14 @@ article_header:
 
 ## 团队伙伴
 
-| 王久娟                                                       | 2018-2021                                 | Xinping Deng                                                 | 2017-2020                                |
+| 王久娟                                                       | 2018-2021                                 | 邓新萍                                                       | 2017-2020                                |
 | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317112827-4sj8x7l.png){:.rounded} | 一带一路环境技术交流与转移中心-深圳<br /> | ![image.png](/SIAT-GeoScience/assets/image-20220317114711-xcjlj1i.png){:.rounded} | 深圳麦科田生物医疗技术股份有限公司<br /> |
 | **贾建鑫**                                                   | **2019-2021**                             | **徐文娜**                                                   | **2017-2020**                            |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317112706-8quhkf2.png){:.rounded} | 芬兰地球空间研究所                        | ![image.png](/SIAT-GeoScience/assets/image-20220317114251-yxu8qbd.png){:.rounded} | 科大讯飞                                 |
-| **Yingfei Xiong**                                            | **2018-2021**                             | **林创**                                                     | **2018-2021**                            |
+| **熊鹰飞**                                                   | **2018-2021**                             | **林创**                                                     | **2018-2021**                            |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317114340-i03d42w.png){:.rounded} | 华为                                      | ![image.png](/SIAT-GeoScience/assets/image-20220317154139-hlc62gv.png){:.rounded} | 华为                                     |
-| **申原**                                                     | **2017-2020**                             | **Binglong Wu**                                              | **2020-2021**                            |
+| **申原**                                                     | **2017-2020**                             | **吴兵龙**                                                   | **2020-2021**                            |
 | ![image.png](/SIAT-GeoScience/assets/image-20220317165119-ti2wtnt.png){:.rounded} | 道通智能                                  | ![image.png](/SIAT-GeoScience/assets/image-20220317151943-62begz8.png){:.rounded} | 攻读Master  Degree                       |
 
 # 团队学习&生活
