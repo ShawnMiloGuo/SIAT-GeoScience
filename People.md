@@ -13,7 +13,7 @@ article_header:
     src: /assets/image-20220317152832-0wl42ox.png
 ---
 
-**[中文](https://shawnmiloguo.github.io/SIAT-GeoScience/People-zh.html)**
+**[中文](https://github.com/shawnmiloguo.github.io/SIAT-GeoScience/People-zh.html)**
 
 # Job Available
 
@@ -40,10 +40,14 @@ Prof. Guo is recruiting for Student/Visiting student now. If you are from remote
 | Associate Professor                                          | Associate Professor                                          | Engineer                                                     | Postdoc                                                      | Engineer                                                     |
 | ![image.png](/SIAT-GeoScience/assets/image-20220316221041-v5ld968.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316221107-laky3gi.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222052-4c8b1ts.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220317150220-srsv5i2.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/image-20220316222004-rpe21ge.png){:.rounded} |
 | Beijing Normal University <br /> [Webpage](https://jiangjincheng.github.io/) | University of Chinese <br />Academy of Sciences              | The Hong Kong <br />Polytechnic University                   | Liaoning <br />Technical University                          | Inner Mongolia<br /> Normal University<br />                 |
-| **Zhengxin Wang**                                            | **Shicheng Xiong**                                           | **Tuo Zhang**                                                | **Ruihong Wang**                                             |                                                              |
-| M.S student                                                  | M.S student                                                  | M.S student                                                  | M.S student                                                  |                                                              |
-| ![image.png](/SIAT-GeoScience/assets/WangZhengxin.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/XiongShicheng.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/ZhangTuo.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/WangRuihong.png){:.rounded} |                                                              |
-| University of Chinese <br />Academy of Sciences<br />        | University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              |                                                              |
+| **Zhengxin Wang**                                            | **Shicheng Xiong**                                           | **Tuo Zhang**                                                | **Ruihong Wang**                                             | **Jinyuan Yu**                                               |
+| M.S student                                                  | M.S student                                                  | M.S student                                                  | M.S student                                                  | M.S student                                                  |
+| ![image.png](/SIAT-GeoScience/assets/WangZhengxin.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/XiongShicheng.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/ZhangTuo.png){:.rounded}<br /> | ![image.png](/SIAT-GeoScience/assets/WangRuihong.pg){:.rounded} | ![image.png](/SIAT-GeoScience/assets/YuJinyuan.png){:.rounded} |
+| University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              |
+| **Wenzhong Zhang**                                           | **Yinheng Li**                                               |                                                              |                                                              |                                                              |
+| M.S student                                                  | M.S student                                                  |                                                              |                                                              |                                                              |
+| ![image.png](/SIAT-GeoScience/assets/ZhangWenzhong.png){:.rounded} | ![image.png](/SIAT-GeoScience/assets/LiYinheng.png){:.rounded}<br /> |                                                              |                                                              |                                                              |
+| University of Chinese <br />Academy of Sciences              | University of Chinese <br />Academy of Sciences              |                                                              |                                                              |                                                              |
 
 ## Alumni
 
