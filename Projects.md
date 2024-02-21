@@ -1,9 +1,11 @@
 ---
 layout: articles
-title: Articles - Item (Cover + Excerpt)
+title: Articles - Item (Cover)
+permalink: /articles/item-cover.html
+key: articles-item-cover
+cover: /docs/assets/images/axure/articles-item-cover.jpg
 articles:
-  data_source: paginator.projects
-  show_excerpt: true
+  data_source: site.projects
 ---
 
 
