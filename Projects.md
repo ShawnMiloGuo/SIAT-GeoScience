@@ -1,8 +1,8 @@
 ---
 layout: articles
-title: 当前项目
+title: Articles - Item (Cover + Excerpt)
 articles:
-  data_source: paginator.sample_page
+  data_source: paginator.projects
   show_excerpt: true
 ---
 
