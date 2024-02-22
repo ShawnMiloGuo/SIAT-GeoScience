@@ -217,7 +217,7 @@ defaults:
     ## projects
   ## samples
   - scope:
-      path: _projects_info
+      path: ""
       type: projects_info
     values:
       layout: article
