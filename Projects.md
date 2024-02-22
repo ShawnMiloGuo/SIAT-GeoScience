@@ -1,9 +1,7 @@
 ---
 layout: articles
-title: Articles - Item (Cover)
-permalink: /articles/item-cover.html
-key: articles-item-cover
-cover: /docs/assets/images/axure/articles-item-cover.jpg
+title: Articles - Item (Cover + Excerpt)
 articles:
-  data_source: site.projects_info
+  data_source: projects_info
+  show_excerpt: true
 ---
