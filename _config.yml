@@ -214,7 +214,13 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
-
+    ## projects
+  - scope:
+      layout: article
+      path: "_projects_info"
+    values:
+      nav_key: projects
+    show_date: false
 
 ## => Plugins
 ##############################

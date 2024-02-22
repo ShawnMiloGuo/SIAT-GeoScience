@@ -7,3 +7,4 @@ articles:
   type: grid
 ---
 
+<div class="article__content" markdown="1">
