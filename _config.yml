@@ -215,12 +215,12 @@ defaults:
       show_subscribe: true
       pageview: true
     ## projects
+  ## samples
   - scope:
-      layout: article
-      path: "_projects_info"
+      path: ""
+      type: projects_info
     values:
-      nav_key: projects
-    show_date: false
+      layout: article
 
 ## => Plugins
 ##############################
