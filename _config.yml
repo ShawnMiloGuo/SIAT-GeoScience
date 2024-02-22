@@ -217,7 +217,7 @@ defaults:
     ## projects
 
   - scope:
-      path: ""
+      path: "/_projects_info"
       type: projects_info
     values:
       layout: article
