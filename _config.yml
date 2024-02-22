@@ -217,10 +217,11 @@ defaults:
     ## projects
   ## samples
   - scope:
-      path: ""
+      path: _project_info
       type: projects_info
     values:
       layout: article
+      nav_key: projects
 
 ## => Plugins
 ##############################
