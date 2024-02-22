@@ -6,5 +6,3 @@ articles:
   show_excerpt: true
   type: grid
 ---
-
-<div class="article__content" markdown="1">
